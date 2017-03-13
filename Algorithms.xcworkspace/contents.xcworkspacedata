@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Stack - Algorithm.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Queue - Algorithm.playground">
+   </FileRef>
+   <FileRef
+      location = "container:Algorithms.xcodeproj">
+   </FileRef>
+</Workspace>
